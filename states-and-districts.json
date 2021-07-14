@@ -1,5 +1,13 @@
 {  
    "states":[  
+      {
+         "state":"Andaman and Nicobar Island (UT)",
+         "districts":[
+            "Nicobar",
+            "North and Middle Andaman",
+            "South Andaman"
+         ]
+      },
       {  
          "state":"Andhra Pradesh",
          "districts":[  
@@ -9,39 +17,43 @@
             "Guntur",
             "Krishna",
             "Kurnool",
-            "Nellore",
             "Prakasam",
             "Srikakulam",
+            "Sri Potti Sriramulu Nellore",
             "Visakhapatnam",
             "Vizianagaram",
             "West Godavari",
-            "YSR Kadapa"
+            "YSR Kadapa, Kadapa (Cuddapah)"
          ]
       },
       {  
          "state":"Arunachal Pradesh",
          "districts":[  
-            "Tawang",
-            "West Kameng",
-            "East Kameng",
-            "Papum Pare",
-            "Kurung Kumey",
-            "Kra Daadi",
-            "Lower Subansiri",
-            "Upper Subansiri",
-            "West Siang",
-            "East Siang",
-            "Siang",
-            "Upper Siang",
-            "Lower Siang",
-            "Lower Dibang Valley",
-            "Dibang Valley",
             "Anjaw",
-            "Lohit",
-            "Namsai",
             "Changlang",
+            "Dibang Valley",
+            "East Kameng",
+            "East Siang",
+            "Kamle",
+            "Kra Daadi",
+            "Kurung Kumey",
+            "Lepa Rada",
+            "Lohit",
+            "Longding",
+            "Lower Dibang Valley",
+            "Lower Siang",
+            "Lower Subansiri",
+            "Namsai",
+            "Pakke Kessang",
+            "Papum Pare",
+            "Shi Yomi",
+            "Siang",
+            "Tawang",
             "Tirap",
-            "Longding"
+            "Upper Siang",
+            "Upper Subansiri",
+            "West Kameng",
+            "West Siang"
          ]
       },
       {  
@@ -58,13 +70,14 @@
             "Dhemaji",
             "Dhubri",
             "Dibrugarh",
+            "Dima Hasao (North Cachar Hills)",
             "Goalpara",
             "Golaghat",
             "Hailakandi",
             "Hojai",
             "Jorhat",
-            "Kamrup Metropolitan",
             "Kamrup",
+            "Kamrup Metropolitan",
             "Karbi Anglong",
             "Karimganj",
             "Kokrajhar",
@@ -73,7 +86,6 @@
             "Morigaon",
             "Nagaon",
             "Nalbari",
-            "Dima Hasao",
             "Sivasagar",
             "Sonitpur",
             "South Salmara-Mankachar",
@@ -183,12 +195,12 @@
             "East Delhi",
             "New Delhi",
             "North Delhi",
-            "North East  Delhi",
-            "North West  Delhi",
+            "North East Delhi",
+            "North West Delhi",
             "Shahdara",
             "South Delhi",
             "South East Delhi",
-            "South West  Delhi",
+            "South West Delhi",
             "West Delhi"
          ]
       },
@@ -253,7 +265,7 @@
             "Karnal",
             "Kurukshetra",
             "Mahendragarh",
-            "Mewat",
+            "Nuh",
             "Palwal",
             "Panchkula",
             "Panipat",
@@ -282,7 +294,7 @@
          ]
       },
       {  
-         "state":"Jammu and Kashmir",
+         "state":"Jammu and Kashmir (UT)",
          "districts":[  
             "Anantnag",
             "Bandipore",
@@ -291,12 +303,10 @@
             "Doda",
             "Ganderbal",
             "Jammu",
-            "Kargil",
             "Kathua",
             "Kishtwar",
             "Kulgam",
             "Kupwara",
-            "Leh",
             "Poonch",
             "Pulwama",
             "Rajouri",
@@ -362,8 +372,8 @@
             "Koppal",
             "Mandya",
             "Mysuru (Mysore)",
-            "Raichur",
             "Ramanagara",
+            "Raichur",
             "Shivamogga (Shimoga)",
             "Tumakuru (Tumkur)",
             "Udupi",
@@ -392,18 +402,16 @@
          ]
       },
       {  
+         "state":"Ladakh (UT)",
+         "districts":[  
+            "Kargil",
+            "Leh"
+         ]
+      },
+      {  
          "state":"Lakshadweep (UT)",
          "districts":[  
-            "Agatti",
-            "Amini",
-            "Androth",
-            "Bithra",
-            "Chethlath",
-            "Kavaratti",
-            "Kadmath",
-            "Kalpeni",
-            "Kilthan",
-            "Minicoy"
+            "Lakshadweep"
          ]
       },
       {  
@@ -691,12 +699,14 @@
          "state":"Tamil Nadu",
          "districts":[  
             "Ariyalur",
+            "Chengalpattu",
             "Chennai",
             "Coimbatore",
             "Cuddalore",
             "Dharmapuri",
             "Dindigul",
             "Erode",
+            "Kallakurichi",
             "Kanchipuram",
             "Kanyakumari",
             "Karur",
@@ -708,13 +718,16 @@
             "Perambalur",
             "Pudukkottai",
             "Ramanathapuram",
+            "Ranipet",
             "Salem",
             "Sivaganga",
+            "Tenkasi",
             "Thanjavur",
             "Theni",
             "Thoothukudi (Tuticorin)",
             "Tiruchirappalli",
             "Tirunelveli",
+            "Tirupathur",
             "Tiruppur",
             "Tiruvallur",
             "Tiruvannamalai",
@@ -877,13 +890,13 @@
             "Alipurduar",
             "Bankura",
             "Birbhum",
-            "Burdwan (Bardhaman)",
             "Cooch Behar",
             "Dakshin Dinajpur (South Dinajpur)",
             "Darjeeling",
             "Hooghly",
             "Howrah",
             "Jalpaiguri",
+            "Jhargram",
             "Kalimpong",
             "Kolkata",
             "Malda",
@@ -891,6 +904,8 @@
             "Nadia",
             "North 24 Parganas",
             "Paschim Medinipur (West Medinipur)",
+            "Paschim (West) Burdwan (Bardhaman)",
+            "Purba Burdwan (Bardhaman)",
             "Purba Medinipur (East Medinipur)",
             "Purulia",
             "South 24 Parganas",
